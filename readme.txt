@@ -1,1 +1,1 @@
-This is CMS Website.The is also a test.
+This file will contain source codes that I wrote to make CMS website for Lehigh University from ground up.
