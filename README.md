@@ -1,1 +1,2 @@
-Center for Membrane Study webiste made from scracth for Lehigh University. membrane.lehigh.edu
+
+I created this website for Lehigh University Membrane Research team when I was working as a research assistant at the Im Lab. Although I don't have any exceptional experience in creating website, Prof. Wonpil Im requested to create a minimalistic website using whatever knowledge I have. I created this simple website using basic HTML,CSS, and JavaScript. Website is hosted at membrane.lehigh.edu . I will appreciate if you can forward your ideas to improve the website at rafsanmobasher@acm.org .
